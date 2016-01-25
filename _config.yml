@@ -56,7 +56,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
+  - text: "Persist."
   - text: "Where’s your will to be weird?"
 
 me-img: "/img/jetpacktocat.png"
@@ -85,15 +85,12 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: True
 twitter-share: True
 linkedin-share: True
 reddit-share: True
 google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+
+
 
 disqus-shortname: "panossakkos"
 
@@ -126,16 +123,12 @@ email: "k.isabel.sandoval@gmail.com"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+
 
 ############
 # 404 page #

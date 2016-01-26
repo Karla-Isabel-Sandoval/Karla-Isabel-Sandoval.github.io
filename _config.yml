@@ -87,12 +87,12 @@ paginate: 5
 email-share: True
 twitter-share: True
 linkedin-share: True
-reddit-share: True
-google-plus-share: True
+reddit-share: False
+google-plus-share: False
 
 
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 syntax-highlight: True
 
@@ -100,17 +100,17 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:
-  - image: "/img/timeline/spidertocat.png"
+Events:
+  - image: "/img/timeline/CodeConfGHO.jpg"
     date: "January2015 - Today"
     description: "Debugging & Clicking & Clacking"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/CodeConfGHO.jpg"
     date: "September 2007 - August 2013"
     description: "Started coding"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/CodeConfGHO.jpg"
 
 ###########
 # Contact #
@@ -127,7 +127,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/Karla-Isabel-Sandoval/personal-jekyll-theme"
 
 
 ############

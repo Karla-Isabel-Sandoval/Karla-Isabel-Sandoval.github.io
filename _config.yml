@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://kisabelyogi.github.io"
+url: "https://Karla-Isabel-Sandoval.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -101,16 +101,16 @@ syntax-highlight: True
 ############
 
 Events:
-  - image: "/img/timeline/CodeConfGHO.jpg"
+  - image: "/img/timeline/CodeConfGHO.jpeg"
     date: "January2015 - Today"
     description: "Debugging & Clicking & Clacking"
-  - image: "/img/timeline/CodeConfGHO.jpg"
+  - image: "/img/timeline/CodeConfGHO.jpeg"
     date: "September 2007 - August 2013"
     description: "Started coding"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/CodeConfGHO.jpg"
+timeline-img: "/img/timeline/CodeConfGHO.jpeg"
 
 ###########
 # Contact #

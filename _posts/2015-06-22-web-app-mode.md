@@ -5,8 +5,7 @@ title: Web app mode
 category: tech
 tags: [ 'tutorial']
 ---
-You can make your website behave like a native web app in iOS and Android devices
-by providing links for the icons for each resolution:
+So why do your commits not show up? This is a common question we're facing right now.
 
 <pre><code data-trim class="yaml">
 web-app-mode: True

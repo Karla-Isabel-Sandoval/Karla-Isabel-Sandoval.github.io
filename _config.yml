@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Karla Sandoval"
-title: "{ John Smith }"
+title: "{ Karla Sandoval }"
 description: "Blog and website of Karla Sandoval, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -57,7 +57,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Persist."
-  - text: "Where’s your will to be weird?"
+  - text: "To remember is not to forget."
 
 me-img: "/img/jetpacktocat.png"
 
@@ -105,7 +105,7 @@ Events:
     date: "January2015 - Today"
     description: "Debugging & Clicking & Clacking"
   - image: "/img/timeline/CodeConfGHO.jpeg"
-    date: "September 2007 - August 2013"
+    date: "January 2015 - Present"
     description: "Started coding"
 
 # First image of the Timeline

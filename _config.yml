@@ -12,7 +12,7 @@ url: "https://Karla-Isabel-Sandoval.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /Karla-Isabel-Sandoval.github.io
+baseurl: /personal-jekyll-theme
 
 # Google tracking id to track your visitors
 

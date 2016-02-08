@@ -101,16 +101,20 @@ syntax-highlight: True
 ############
 
 Events:
+  - image: "/img/timeline/CG-3DPrint.JPG"
+    date: "June2015 - June2015"
+    description: "Visiting Nashville for CodeConf"
+
   - image: "/img/timeline/CodeConfGHO.jpeg"
     date: "January2015 - Today"
     description: "Debugging & Clicking & Clacking"
-  - image: "/img/timeline/CodeConfGHO.jpeg"
-    date: "September 2015 - August 2013"
-    description: "Started coding"
+
 
 # First image of the Timeline
 
 timeline-img: "/img/timeline/CodeConfGHO.jpeg"
+# Second image of the Timeline
+timeline-img: "/img/timeline/CG-3DPrint.JPG"
 
 ###########
 # Contact #
